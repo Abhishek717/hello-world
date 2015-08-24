@@ -1,2 +1,2 @@
 # hello-world
-This is the first repository in my git-hub tutorial
+My name is Abhishek Singh. I am a graduate student at CMU.
